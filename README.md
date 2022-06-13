@@ -1,20 +1,26 @@
-http://localhost:3000/filteredimage?image_url=https://images.pexels.com/photos/298842/pexels-photo-298842.jpeg
+"Repo" : "https://github.com/victoryosaigbovo/udagram-filter-service",
+"Github Profile" : "https://github.com/victoryosaigbovo",
+
+"EB URL" : "http://starterapp-dev.us-east-1.elasticbeanstalk.com",
+
+"Test" : {
+
+"EB_URL" : "http://starterapp-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/298842/pexels-photo-298842.jpeg",
+![Elastic_Beanstalk_Endpoint_GET_request](https://user-images.githubusercontent.com/106165464/173456044-b97818fd-8eea-4b25-b83b-36da9bff512c.png)
 
 
-http://starterapp-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/298842/pexels-photo-298842.jpeg
-
-
-https://github.com/victoryosaigbovo/udagram-filter-service
+"LocalHost_URL" : "http://localhost:3000/filteredimage?image_url=https://images.pexels.com/photos/298842/pexels-photo-298842.jpeg.jpg"
+![Valid local request](https://user-images.githubusercontent.com/106165464/173455925-f1bba301-bf41-4157-8807-1d9065f71c7f.png)
+}
 
 ![npm run dev](https://user-images.githubusercontent.com/106165464/173455732-d537fba6-9891-48c2-afce-e700c96a47c4.png)
 ![eb init](https://user-images.githubusercontent.com/106165464/173455806-7814aba0-dc4c-48c8-b7fb-804f47433c94.png)
 ![eb create](https://user-images.githubusercontent.com/106165464/173455836-59f8539e-150b-4fe0-b9ec-eca70735057d.png)
 ![eb deploy](https://user-images.githubusercontent.com/106165464/173455885-1155c1d2-16f3-4bd9-a58b-6d39aafb2486.png)
-![Valid local request](https://user-images.githubusercontent.com/106165464/173455925-f1bba301-bf41-4157-8807-1d9065f71c7f.png)
 ![Successful_responses_have_a_200_code](https://user-images.githubusercontent.com/106165464/173455993-3bca6823-dbe4-4c3b-9a0b-a54e643b7059.png)
 ![at_least_one_error_code_for_caught_errors](https://user-images.githubusercontent.com/106165464/173456020-f570bd07-e023-4cfe-a08a-0b4bf0f29d30.png)
-![Elastic_Beanstalk_Endpoint_GET_request](https://user-images.githubusercontent.com/106165464/173456044-b97818fd-8eea-4b25-b83b-36da9bff512c.png)
- file:///home/victory/Pictures/EB_GET_request.png
+![EB_GET_request](https://user-images.githubusercontent.com/106165464/173461460-ff2bd157-7dc4-41b9-b6ab-4c6bf11f32dd.png)
+![Elastic Beanstalk Dashboard](https://user-images.githubusercontent.com/106165464/173461549-f7feb3be-a687-4481-9350-924a9c0e311e.png)
 
 
 
