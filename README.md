@@ -1,3 +1,9 @@
+http://localhost:3000/filteredimage?image_url=https://images.pexels.com/photos/298842/pexels-photo-298842.jpeg
+
+http://starterapp-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.pexels.com/photos/298842/pexels-photo-298842.jpeg
+
+https://github.com/victoryosaigbovo/udagram-filter-service
+
 # udagram-filter-service
 # Udagram Image Filtering Microservice
 
