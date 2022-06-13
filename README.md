@@ -6,6 +6,16 @@ http://starterapp-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=htt
 
 https://github.com/victoryosaigbovo/udagram-filter-service
 
+![npm run dev](https://user-images.githubusercontent.com/106165464/173455732-d537fba6-9891-48c2-afce-e700c96a47c4.png)
+![eb init](https://user-images.githubusercontent.com/106165464/173455806-7814aba0-dc4c-48c8-b7fb-804f47433c94.png)
+![eb create](https://user-images.githubusercontent.com/106165464/173455836-59f8539e-150b-4fe0-b9ec-eca70735057d.png)
+![eb deploy](https://user-images.githubusercontent.com/106165464/173455885-1155c1d2-16f3-4bd9-a58b-6d39aafb2486.png)
+![Valid local request](https://user-images.githubusercontent.com/106165464/173455925-f1bba301-bf41-4157-8807-1d9065f71c7f.png)
+![Successful_responses_have_a_200_code](https://user-images.githubusercontent.com/106165464/173455993-3bca6823-dbe4-4c3b-9a0b-a54e643b7059.png)
+![at_least_one_error_code_for_caught_errors](https://user-images.githubusercontent.com/106165464/173456020-f570bd07-e023-4cfe-a08a-0b4bf0f29d30.png)
+![Elastic_Beanstalk_Endpoint_GET_request](https://user-images.githubusercontent.com/106165464/173456044-b97818fd-8eea-4b25-b83b-36da9bff512c.png)
+ file:///home/victory/Pictures/EB_GET_request.png
+
 
 
 
